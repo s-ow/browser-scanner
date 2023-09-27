@@ -40,5 +40,8 @@ J'en ai trouvés au total 17 plus ou moins utilisés :
 ✔ 7star
 ```
 
+## Aperçu
+![](https://i.imgur.com/cMj8XWc.png) ![](https://i.imgur.com/D1CKdEL.png)
+
 ## Conclusion
 Comme d'habitude, si vous constatez des bugs ou des choses améliorables, n'hésitez pas à me le faire savoir !
